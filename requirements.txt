@@ -1,5 +1,6 @@
 streamlit
 faiss
+faiss-cpu==1.7.3
 langchain
 langchain-community
 pip==24.2.0
