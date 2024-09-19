@@ -2,4 +2,4 @@ streamlit
 faiss
 langchain
 langchain-community
-pip-upgrader
+pip==24.2.0
