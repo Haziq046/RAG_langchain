@@ -2,3 +2,4 @@ streamlit
 faiss
 langchain
 langchain-community
+pip-upgrader
