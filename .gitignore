@@ -1,13 +1,12 @@
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # Other common files to ignore
 node_modules/
 .DS_Store
 *.log
+.gitignore
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-.gitignore
+config.bat
